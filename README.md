@@ -2,8 +2,8 @@
 A collection of HEMA specific academic publications in German and English. Publications from HEMA practitioners without an academic background are not listed.
 
 ## Dissertations
-* [Das Fechtbuch - Untersuchungen zur Entwicklungsgeschichte der bildkünstlerischen Darstellung der Fechtkunst in den Fechtbüchern des mediterranen und westeuropäischen Raumes vom Mittelalter bis Ende des 18. Jahrhunderts.](http://dx.doi.org/10.18419/opus-5258) Heidemarie Bodemer.
-* [Moderne Schwertkampf-Trainer als ‚Erben’ alter Meister - Vorbilder und Vermittlungspraxen mittelalterlichen europäischen Schwertkampfs in der „Historical European Martial Arts“-Szene in Deutschland.](https://epub.uni-regensburg.de/38374/) Sebastian Keller.
+* [Das Fechtbuch - Untersuchungen zur Entwicklungsgeschichte der bildkünstlerischen Darstellung der Fechtkunst in den Fechtbüchern des mediterranen und westeuropäischen Raumes vom Mittelalter bis Ende des 18. Jahrhunderts. (2008)](http://dx.doi.org/10.18419/opus-5258) Heidemarie Bodemer.
+* [Moderne Schwertkampf-Trainer als ‚Erben’ alter Meister - Vorbilder und Vermittlungspraxen mittelalterlichen europäischen Schwertkampfs in der „Historical European Martial Arts“-Szene in Deutschland. (2019)](https://epub.uni-regensburg.de/38374/) Sebastian Keller.
 
 ## Monographs
 * The Martial Arts of Renaissance Europe (2000). Sydney Anglo.
